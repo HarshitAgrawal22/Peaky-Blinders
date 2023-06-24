@@ -1,0 +1,31 @@
+body{background-image: url("photo_2022-10-29_15-52-33.jpg");
+    background-size: cover;
+
+}
+#fih{
+    color:white;
+    font-size: 54px;
+    width:50%;
+    margin-left: 30%;
+    text-decoration: underline;
+    font-family: 'Kablammo','Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.lol{background-color: yellow;
+    border-radius: 15px;
+    font-size: 30px;
+    color:red;text-decoration: none;
+    margin-right:35%;
+    height: 45px;
+    margin-left:35%;
+    margin-top: 40%;
+    padding:12px;
+    
+
+
+}
+a{
+    text-decoration: none;
+    color:red;font-family: 'Kablammo', cursive;
+}
+

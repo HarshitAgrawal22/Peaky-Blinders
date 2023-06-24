@@ -1,0 +1,23 @@
+body{background-image:url("thomas shelby and alfie solomons 3.PNG");
+background-size: cover;
+color:white;
+font-family: 'Kablammo', cursive;}
+h1{
+    width:40%;
+    margin-left: 40%;
+
+}
+h2{
+    color:aqua;
+}
+img{display: inline;
+    width:30%;
+    overflow:clip;
+}
+p{
+    display: inline-block;
+    font-family: 'Caveat', cursive;
+
+    color: chocolate;
+    font-size: 25px;
+}
